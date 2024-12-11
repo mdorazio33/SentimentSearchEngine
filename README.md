@@ -4,6 +4,6 @@ This repository contains the files for my Final Presentation in Web/Text Mining 
 
 For the Sentiment Search Engine itself, the main code will be found in the Sentiment_Search_Engine.ipynb and HTML files. Also provided is a .py file titled "reddit_credentials". Be sure to input your information for your Reddit account there if you wish to replicate this project using Reddit PRAW.
 
-Link to Dataset: https://docs.google.com/spreadsheets/d/1fZM5DC6jhgM54ZjmMZ3Jaui8A3RaKVCoDIAeHe7SlNw/edit?usp=sharing 
+Link to the Dataset: https://docs.google.com/spreadsheets/d/1fZM5DC6jhgM54ZjmMZ3Jaui8A3RaKVCoDIAeHe7SlNw/edit?usp=sharing 
 
-Link to Trained Model (db_model): https://drive.google.com/drive/folders/1vBtvy0C0lQQiJjFje6FWM7gXKU-uunvy?usp=drive_link 
+Link to the Trained Model (db_model): https://drive.google.com/drive/folders/1vBtvy0C0lQQiJjFje6FWM7gXKU-uunvy?usp=drive_link 
