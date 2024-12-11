@@ -6,4 +6,4 @@ For the Sentiment Search Engine itself, the main code will be found in the Senti
 
 Link to the Dataset: https://docs.google.com/spreadsheets/d/1fZM5DC6jhgM54ZjmMZ3Jaui8A3RaKVCoDIAeHe7SlNw/edit?usp=sharing 
 
-Link to the Trained Model (db_model): https://drive.google.com/drive/folders/1vBtvy0C0lQQiJjFje6FWM7gXKU-uunvy?usp=drive_link 
+Link to the Trained BERT Model (db_model): https://drive.google.com/drive/folders/1vBtvy0C0lQQiJjFje6FWM7gXKU-uunvy?usp=drive_link 
